@@ -7,6 +7,7 @@ import UserDetails from "./components/pages/UserDetails";
 import About from "./components/pages/About";
 import "semantic-ui-css/semantic.min.css";
 import "./App.css";
+import Chatbot from "./components/Chatbot";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
             <Route exact path="/about" component={About} />
             <Route exact path="/:uid" component={UserDetails} />
           </Switch>
+         
         </Container>
       </Router>
     </div>

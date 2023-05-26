@@ -4,12 +4,12 @@ import { Menu, Icon, Container } from "semantic-ui-react";
 
 function Navbar() {
   return (
-    <Menu borderless inverted fixed="top" color="violet">
+    <Menu borderless inverted fixed="top" color="#FA7D19">
       <Container>
         <Menu.Item as={Link} to="/" className="brand">
           <Menu.Header as="h3">
             <Icon name="github" />
-            GithubFinder
+           Buddies
           </Menu.Header>
         </Menu.Item>
         <Menu.Item as={Link} to="/" position="right">
