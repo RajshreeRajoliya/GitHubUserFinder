@@ -4,3 +4,6 @@
 
 ![search](https://github.com/RajshreeRajoliya/GitHubUserFinder/assets/113670900/7687d81f-9f5d-4cad-a308-1145ef248130)
 
+![info](https://github.com/RajshreeRajoliya/GitHubUserFinder/assets/113670900/a073a66b-d374-4f05-8a32-381b39ac5bcc)
+
+
