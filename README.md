@@ -6,7 +6,8 @@
 
 ![info](https://github.com/RajshreeRajoliya/GitHubUserFinder/assets/113670900/a073a66b-d374-4f05-8a32-381b39ac5bcc)
 
-
 ![more](https://github.com/RajshreeRajoliya/GitHubUserFinder/assets/113670900/d250afeb-0df3-4c4a-8f34-02ee747144fd)
+
+![about](https://github.com/RajshreeRajoliya/GitHubUserFinder/assets/113670900/4b3be3a8-6baf-41a8-a920-539b22161e0f)
 
 
